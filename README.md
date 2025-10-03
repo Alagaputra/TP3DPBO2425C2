@@ -105,17 +105,15 @@ Data perusahaan, toko, dan daftar barang ditampilkan rapi dalam format tabel.
 DOKUMENTASI :
 
 CPP
-
-![Diagram Class](./CPP\Dokumentasi\CPPIsi.jpeg)
-![Diagram Class](./CPP\Dokumentasi\CPPKosong.jpeg)
+![alt text](image.png)
+![alt text](image-1.png)
 
 Java
-
-![Diagram Class](./Java\Dokumentasi\JavaIsi.jpeg)
-![Diagram Class](./Java\Dokumentasi\JavaKosong.jpeg)
+![alt text](image-3.png)
+![alt text](image-2.png)
 
 Python
 
-![Diagram Class](./Python\Dokumentasi\PythonIsi.jpeg)
-![Diagram Class](./Python\Dokumentasi\PythonKosong.jpeg)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
