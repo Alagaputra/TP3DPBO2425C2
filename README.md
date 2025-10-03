@@ -105,15 +105,22 @@ Data perusahaan, toko, dan daftar barang ditampilkan rapi dalam format tabel.
 DOKUMENTASI :
 
 CPP
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="589" height="88" alt="image" src="https://github.com/user-attachments/assets/9f085fb9-cc4d-4547-ac40-5cfe6d4a5bea" />
+<img width="712" height="631" alt="image" src="https://github.com/user-attachments/assets/4fabaa2f-12f0-4a48-aa7a-9c103d75fb82" />
+
+
 
 Java
-![alt text](image-3.png)
-![alt text](image-2.png)
+
+<img width="959" height="131" alt="image" src="https://github.com/user-attachments/assets/1b2ad715-6230-4760-a5fc-b407e61114d8" />
+<img width="967" height="589" alt="image" src="https://github.com/user-attachments/assets/75fbbee2-64f7-49bb-95cf-bbc86be6c86c" />
+
+
 
 Python
 
-![alt text](image-4.png)
-![alt text](image-5.png)
+<img width="1018" height="117" alt="image" src="https://github.com/user-attachments/assets/3a1a9b8a-2f3f-4288-81f2-131ff0621c51" />
+<img width="995" height="556" alt="image" src="https://github.com/user-attachments/assets/1b003e75-dab9-4ad7-b940-2ee85f192f76" />
+
+
 
