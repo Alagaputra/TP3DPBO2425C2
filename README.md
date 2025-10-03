@@ -106,16 +106,16 @@ DOKUMENTASI :
 
 CPP
 
-![Diagram Class](./CPP\Dokumentasi/CPPIsi.jpeg)
-![Diagram Class](./CPP\Dokumentasi/CPPKosong.jpeg)
+![Diagram Class](./CPP\Dokumentasi\CPPIsi.jpeg)
+![Diagram Class](./CPP\Dokumentasi\CPPKosong.jpeg)
 
 Java
 
-![Diagram Class](./Java\Dokumentasi/JavaIsi.jpeg)
-![Diagram Class](./Java\Dokumentasi/JavaKosong.jpeg)
+![Diagram Class](./Java\Dokumentasi\JavaIsi.jpeg)
+![Diagram Class](./Java\Dokumentasi\JavaKosong.jpeg)
 
 Python
 
-![Diagram Class](./Python\Dokumentasi/PythonIsi.jpeg)
-![Diagram Class](./Python\Dokumentasi/PythonKosong.jpeg)
+![Diagram Class](./Python\Dokumentasi\PythonIsi.jpeg)
+![Diagram Class](./Python\Dokumentasi\PythonKosong.jpeg)
 
